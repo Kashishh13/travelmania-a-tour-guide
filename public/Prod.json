@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "cat": "Accessories",
+    "title": "BREXXO Fashion Choker Necklace Women",
+    "price": "₹599 ",
+    "op": "₹800",
+    "image": "https://m.media-amazon.com/images/I/71rMFgThwWL._AC_UL320_.jpg"
+  },
+  {
+    "id": 2,
+    "cat": "Baby",
+    "title": "Pampers All round Protection Pants ",
+    "price": "₹959 ",
+    "op": "₹1,100",
+    "image": "https://m.media-amazon.com/images/I/61xDmnkWXEL._SX679_.jpg"
+  },
+  {
+    "id": 3,
+    "cat": "Bags",
+    "title": "Skybags Brat Blue 46 Cms Casual Backpack",
+    "price": "₹629",
+    "image": "https://m.media-amazon.com/images/I/41zaQIbMRCL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "T.Y.A Makeup Kit ",
+    "price": "₹199",
+    "cat": "Beauty And Personal Care",
+    "image": "https://rukminim2.flixcart.com/image/416/416/kruyw7k0/makeup-kit/q/b/j/makeup-kit-10-eyeshadow-2-blusher-2-compact-powder-4-lipcolor-t-original-imag5jtgbyyzezgq.jpeg?q=70"
+  },
+  {
+    "id": 5,
+    "cat": "Musical Instruments",
+    "title": "Juârez Acoustic Guitar",
+    "price": "₹1,999",
+    "image": "https://m.media-amazon.com/images/I/51M9T0C4ssL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Fujifilm Instax Mini 9 Instant Camera",
+    "cat": "Cameras",
+    "price": "₹4,999",
+    "image": "https://m.media-amazon.com/images/I/817aVWYpblL._AC_UY218_.jpg"
+  },
+  {
+    "id": 7,
+    "cat": "Eyewears",
+    "title": "Juârez Acoustic Glasses",
+    "price": "₹740",
+    "image": "https://m.media-amazon.com/images/I/416UE70qJ0L._UX679_.jpg"
+  },
+  {
+    "id": 8,
+    "title": "ASIAN Men's Wonder-13 Sports Running Shoes ",
+    "cat": "Footwear",
+    "price": "₹674 ",
+    "op": "₹899",
+    "image": "https://m.media-amazon.com/images/I/61utX8kBDlL._UY625_.jpg"
+  },
+  {
+    "id": 9,
+    "cat": "Furniture",
+    "image": "https://rukminim2.flixcart.com/image/150/150/j5jx1u80/office-study-table/w/8/p/particle-board-winner-study-table-spacewood-natural-wenge-original-imaew7tvjbzhmphg.jpeg?q=70",
+    "price": "₹1299",
+    "title": "Office & Study Tables"
+  },
+  {
+    "id": 10,
+    "cat": "Paintings",
+    "title": "Fatmug Abstract Paintings for Home",
+    "price": "₹599",
+    "image": "https://m.media-amazon.com/images/I/81K3E6T6jwL._SY450_.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Aashirvaad Shudh Chakki Atta, 5kg Pack",
+    "cat": "Grocery",
+    "price": "₹226",
+    "image": "https://m.media-amazon.com/images/I/71mZPdDjUeL._SX679_.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Mysticoal Analog 30 cm X 30 cm Wall Clock",
+    "price": "₹399",
+    "cat": "Home Decorations",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kdbzqfk0/wall-clock/u/j/s/3d-acrylic-wall-clock-tree-bird-coffee-cup-on-jhula-design-for-original-imafu9nvnm2qrfqx.jpeg?q=70"
+  },
+  {
+    "id": 13,
+    "title": "A.T.U.N Cotton Shirt Dress ",
+    "cat": "Kids Fashion",
+    "price": "₹399",
+    "image": "https://m.media-amazon.com/images/I/61DYV96em5L._UY741_.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Hindware Filterless Auto-Clean Kitchen Chimney",
+    "cat": "Kitchen Appliances",
+    "price": "₹17,199 ",
+    "op": "₹21,499",
+    "image": "https://m.media-amazon.com/images/I/51sXW0k4VtL._SX679_.jpg"
+  },
+  {
+    "id": 15,
+    "title": "HP Victus Gaming Ryzen 5 Hexa Core 5600H ",
+    "cat": "Laptops",
+    "price": "₹52,990 ",
+    "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/l/k/h/-original-imagpkbv6zpcfts5.jpeg?q=70"
+  },
+  {
+    "id": 16,
+    "title": "hangup Men's Art Silk Sherwani",
+    "cat": "Men Fashion",
+    "price": "₹3,400",
+    "image": "https://m.media-amazon.com/images/I/31-euO7puIL.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Apple iPhone 14",
+    "cat": "Mobiles & Tablets",
+    "price": "₹78,999",
+    "image": "https://m.media-amazon.com/images/I/61bK6PMOC3L._SX679_.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Whitedot Capital Duffle Cricket Kitbag, Suitable for All Players, Black, Set of 1 Kitbag",
+    "cat": "Sports",
+    "price": "₹1,099",
+    "image": "https://m.media-amazon.com/images/I/41SQfHYOYwL._SX466_.jpg"
+  },
+  {
+    "id": 19,
+    "title": "realme 126 cm Ultra HD (4K) LED Smart Android TV ",
+    "price": "₹31,999 ",
+    "cat": "Televisions",
+    "image": "https://www.reliancedigital.in/medias/Realme-Neo-LED-Televisions-492796729-i-2-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1ODM2NXxpbWFnZS9qcGVnfGltYWdlcy9oODgvaDJmLzk4MDg1NDQxNzAwMTQuanBnfGJjMDlkZWUwNGJlYTFiMjc5MTIwMzZjNDQ4ZDg2MzU1ZGYwZWVlZmU5ZDU4MGU3ZWJiYTBmMmRkNmM0MTU2ZmU"
+  },
+  {
+    "id": 20,
+    "title": "Tedstree 3 feet pink teddy bear",
+    "cat": "Toys",
+    "price": "₹399",
+    "image": "https://rukminim2.flixcart.com/image/416/416/jxz0brk0/stuffed-toy/n/t/s/4-feet-pink-very-beautiful-best-quality-for-special-gift-125-13-original-imafgv92puzkdytg.jpeg?q=70"
+  },
+  {
+    "id": 21,
+    "title": "Fire-Boltt Visionary 1.78 AMOLED Bluetooth Calling Smartwatch",
+    "cat": "Watches",
+    "price": "₹3,399",
+    "image": "https://m.media-amazon.com/images/I/61CMXdMg0XL._SY450_.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Sony WH-CH520, Wireless On-Ear Bluetooth Headphones ",
+    "cat": "Wireless Headphones",
+    "price": "₹3990",
+    "image": "https://m.media-amazon.com/images/I/41JACWT-wWL._SY450_.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Janasya Women's Peach Poly Crepe Solid Kurta with Pant and Dupatta",
+    "cat": "Women Fashion",
+    "price": "₹799",
+    "image": "https://m.media-amazon.com/images/I/71PQugMmzLL._UY741_.jpg"
+  },
+  {
+    "id": 24,
+    "cat": "Accessories",
+    "title": "Fashion Frill Men's Black Silver Chain",
+    "price": "₹399 ",
+    "image": "https://m.media-amazon.com/images/I/71EikMHRTeL._UY575_.jpg"
+  },
+  {
+    "id": 25,
+    "cat": "Baby",
+    "title": " Himalaya Baby Powder (Pack of 400g)",
+    "price": "₹200",
+    "image": "https://m.media-amazon.com/images/I/51IVVDdiWuL._SY879_.jpg"
+  },
+  {
+    "id": 26,
+    "cat": "Bags",
+    "title": "Lino Perros womens handbag",
+    "price": "₹1,289",
+    "image": "https://m.media-amazon.com/images/I/71dhH+hOdVL._UY625_.jpg"
+  },
+  {
+    "id": 27,
+    "title": " Long-Lasting Deos Privilege Deodorant Spray - For Men",
+    "price": "₹699",
+    "cat": "Beauty And Personal Care",
+    "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/deodorant/p/j/x/450-hero-champion-titan-long-lasting-deos-privilege-3-deodorant-original-imagqjkh6t4nnnen.jpeg?q=70"
+  },
+  {
+    "id": 28,
+    "title": "Canon EOS 1500D 24.1 Digital SLR Camera",
+    "cat": "Cameras",
+    "price": "₹41,990",
+    "image": "https://m.media-amazon.com/images/I/914hFeTU2-L._SX450_.jpg"
+  },
+  {
+    "id": 29,
+    "title": " Feel it Comfortable Leatherite Casual/Formal Wedges Footwear for Women's & Girl's",
+    "cat": "Footwear",
+    "price": "₹559 ",
+    "image": "https://m.media-amazon.com/images/I/619uuODaN8L._UY675_.jpg"
+  },
+  {
+    "id": 30,
+    "cat": "Furniture",
+    "image": "https://m.media-amazon.com/images/I/71ZO9SHgfdL._SX466_.jpg",
+    "price": "₹12,499",
+    "title": "Solimo Medusa Engineered Wood wardrobe"
+  },
+  {
+    "id": 31,
+    "cat": "Home Decorations",
+    "title": "Seven Chakra Crystal Tree Good Luck Show Pieces ",
+    "price": "₹598",
+    "image": "https://m.media-amazon.com/images/I/81eCQYj3-TL._SX466_.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Tata Salt | Vacuum Evaporated Iodised Salt | 1 kg",
+    "cat": "Grocery",
+    "price": "₹16",
+    "image": "https://m.media-amazon.com/images/I/61pPVRyfmgL._SX679_.jpg"
+  },
+  {
+    "id": 33,
+    "cat": "Home Decorations",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/key-holder/y/6/l/8-printed-brown-radha-krishna-two-box-key-holder-khatu-crafts-original-imaghv7ngwdxyfyp.jpeg?q=70",
+    "price": "₹299",
+    "title": "Key Holders"
+  },
+  {
+    "id": 34,
+    "title": "DOTSON Clothing Set for Boys",
+    "cat": "Kids Fashion",
+    "price": "₹1,699",
+    "image": "https://m.media-amazon.com/images/I/61+WWxrVVoL._SY879_.jpg"
+  },
+  {
+    "id": 35,
+    "title": "KENT Max UV Water Purifier",
+    "cat": "Kitchen Appliances",
+    "price": "₹8,199 ",
+    "op": "₹9,999 ",
+    "image": "https://m.media-amazon.com/images/I/71jQhMgf1xL._AC_UL320_.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Dell Vostro 3420 Laptop,Intel i3 ",
+    "cat": "Laptops",
+    "price": "₹36,990 ",
+    "image": "https://m.media-amazon.com/images/I/51+gep5p-QL._SX679_.jpg"
+  },
+  {
+    "id": 37,
+    "title": "Dennis Lingo Men's Checkered Slim Fit Cotton Casual Shirt",
+    "cat": "Men Fashion",
+    "price": "₹549",
+    "image": "https://m.media-amazon.com/images/I/61DGAlvxRLL._UY741_.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Samsung Galaxy M14 5G",
+    "cat": "Mobiles & Tablets",
+    "price": "₹14,450 ",
+    "op": "₹17000",
+    "image": "https://m.media-amazon.com/images/I/41btixsj7uL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Toys World 3D Fast Steering Remote Car   ",
+    "cat": "Toys",
+    "price": "₹299",
+    "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/remote-control-toy/z/a/f/3d-fast-steering-remote-car-toys-world-original-imaggrrzw7vtqbpy.jpeg?q=70"
+  },
+  {
+    "id": 40,
+    "title": "boAt Wave Call Smart Watch",
+    "cat": "Watches",
+    "price": "₹1,199 ",
+    "op": "₹1,999 ",
+    "image": "https://m.media-amazon.com/images/I/61H5PEqBBAL._SX679_.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Lymio Tops for Women",
+    "cat": "Women Fashion",
+    "price": "₹399",
+    "image": "https://m.media-amazon.com/images/I/71sUQgAQTCL._UY741_.jpg"
+  },
+  {
+    "id": 42,
+    "cat": "Accessories",
+    "title": " Diva Fashion 6 pairs Combo Gold Plated Hoop & Crystal Pearl Stud Earrings for Women",
+    "price": "₹799 ",
+    "op": "₹1,099 ",
+    "image": "https://m.media-amazon.com/images/I/71WdysB5ozL._UY575_.jpg"
+  },
+  {
+    "id": 43,
+    "title": "trendDecor Craft Radha Krishna Painting for Home Decoration ",
+    "price": "₹329",
+    "cat": "Paintings",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/painting/0/k/u/30-5-rk-godgiftcraft-original-imaghmmcsx6v3hmd.jpeg?q=70"
+  },
+
+  {
+    "id": 44,
+    "price": "₹629",
+    "cat": "Home Decorations",
+    "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/bedsheet/t/x/d/printed-1-na-vo-db674-flat-cg-homes-original-imagz97hhup6tn6c.jpeg?q=70",
+
+    "title": "Bedsheets"
+  },
+
+  {
+    "id": 45,
+    "title": "Prestige 500 Watts Orion Mixer Grinder",
+    "price": "₹2,099 ",
+    "op": "₹2,599",
+    "cat": "Kitchen Appliances",
+    "image": "https://m.media-amazon.com/images/I/51dxXaDA9GL._AC_UY218_.jpg"
+  },
+
+  {
+    "id": 46,
+    "title": "Nescafe Classic CoffeePowder",
+    "cat": "Grocery",
+    "price": "₹300",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn4AxZZvMEw7VHVSaUUH8kacY7lCI35J0SIA&usqp=CAU"
+  },
+
+  {
+    "id": 47,
+    "title": "boAt Airdopes 170 TWS Earbuds",
+
+    "cat": "Wireless Earphones",
+    "price": "₹1,299",
+    "image": "https://m.media-amazon.com/images/I/31BJjL58ohL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Samsung Galaxy Tab",
+    "cat": "Mobiles & Tablets",
+    "price": "₹14,999",
+    "image": "https://th.bing.com/th/id/OIP.jXJJIOFNn4BMNR2nY_j17AHaHa?w=195&h=195&c=7&r=0&o=5&pid=1.7"
+  },
+  {
+    "id": 49,
+    "title": "ZEBSTER Z -Aura Over The Ear Headphones with Foldable Design",
+    "cat": "Wireless Headphones",
+    "price": "₹299",
+
+    "image": "https://m.media-amazon.com/images/I/71Zasqlx4LL._SY450_.jpg"
+  },
+  {
+    "id": 50,
+    "title": "WildHorn Leather Wallet for Men",
+    "cat": "Accessories",
+    "price": "₹285",
+
+    "image": "https://m.media-amazon.com/images/I/81VJhERW2DS._SX679_.jpg"
+  },
+  {
+    "id": 51,
+    "title": "Safari Compact Size 15 Ltrs Casual Backpack ",
+    "cat": "Bags",
+    "price": "₹321",
+    "image": "https://m.media-amazon.com/images/I/61kmCas5OCL._UX679_.jpg"
+  },
+  {
+    "id": 52,
+    "title": "AYSIS Portable Plastic Shoe Rack Organizer ",
+    "cat": "Furniture",
+    "price": "₹2,901",
+    "image": "https://m.media-amazon.com/images/I/61SVXEAfwoL._SX425_.jpg"
+  },
+  {
+    "id": 53,
+    "title": "SINOMAN Modern Crystal Chandeliers ",
+    "cat": "Home Decorations",
+    "price": "₹3,999",
+
+    "image": "https://m.media-amazon.com/images/I/71-K+Wx2c2L._SX466_.jpg"
+  },
+  {
+    "id": 54,
+    "title": "LIFEHAXTORE® Seven Lucky Running Vastu Horses Art Framed Painting ",
+    "cat": "Paintings",
+    "price": "₹379",
+
+    "image": "https://m.media-amazon.com/images/I/61QOUhfXweL._SX425_.jpg"
+  },
+  {
+    "id": 55,
+    "title": "Levis Men High Rise 511 Slim Fit Jeans",
+    "cat": "Men Fashion",
+    "price": "₹1,350",
+    "image": "https://m.media-amazon.com/images/I/51+3XLfdheL._UX679_.jpg"
+  },
+  {
+    "id": 56,
+    "title": "ARICKS Rectangle Sunglasses for Women Men Vintage Rimless Square Sun Glasses ",
+    "cat": "Eyewears",
+    "price": "₹399",
+    "op": "2,499",
+    "off": "81% Off",
+    "image": "https://m.media-amazon.com/images/I/519jber6RyL._UX679_.jpg"
+  },
+  {
+    "id": 57,
+    "title": "LuvLap Anti-Colic Slim/Regular Neck Essential Baby Feeding Bottle",
+    "cat": "Baby",
+    "price": "₹280",
+    "image": "https://m.media-amazon.com/images/I/81cze7QiV3L._AC_UL320_.jpg"
+  },
+  {
+    "id": 58,
+    "title": "Freeman Deep Cleansing Mud Mask - Charcoal + Black Sugar",
+    "cat": "Beauty And Personal Care",
+    "price": "₹411",
+
+    "image": "https://m.media-amazon.com/images/I/71S-kkf0SwL._SY450_.jpg"
+  },
+  {
+    "id": 59,
+    "title": "KODAK Mini Shot 3 Retro 4PASS 2-in-1 Instant Camera and Photo Printer",
+    "cat": "Cameras",
+    "price": "₹12,099",
+    "op": "₹21,999",
+    "off": "45% Off",
+    "image": "https://m.media-amazon.com/images/I/71qQUhvKvvL._SX679_.jpg"
+  },
+  {
+    "id": 60,
+    "title": "DiSano Peanut Butter, All Natural, Crunchy, Unsweetened, 30% Protein",
+    "cat": "Grocery",
+    "price": "₹199",
+    "op": "₹500",
+    "off": "60% Off",
+    "image": "https://m.media-amazon.com/images/I/71wjhs7HLnL._SX679_.jpg"
+  },
+  {
+    "id": 61,
+    "title": "TAGAS Baby-Girls Mario Rib A-Line Casual Dress",
+    "cat": "Kids Fashion",
+    "price": "₹499",
+    "op": "₹1,499",
+    "off": "67% Off",
+    "image": "https://m.media-amazon.com/images/I/71eEgYXPDXL._UX679_.jpg"
+  },
+  {
+    "id": 62,
+    "title": "Lenovo IdeaPad Slim 5 13th Gen Intel Core i5 ",
+    "cat": "Laptops",
+    "price": "₹71,990",
+    "op": "₹1,05,190",
+    "off": "32% Off",
+    "image": "https://m.media-amazon.com/images/I/619eJi2T7YL._SX679_.jpg"
+  },
+  {
+    "id": 63,
+    "title": "JUAREZ Octavé JRK661 61-Key Electronic Keyboard Piano with LED Display",
+    "cat": "Musical Instruments",
+    "price": "₹3,789",
+    "op": "₹6,500",
+    "off": "42% Off",
+    "image": "https://m.media-amazon.com/images/I/812eUmpsnsL._SX569_.jpg"
+  },
+  {
+    "id": 64,
+    "title": "Samsung 108 cm (43 inches) Crystal iSmart 4K Ultra HD Smart LED TV ",
+    "cat": "Televisions",
+    "price": "₹32,990",
+    "op": "₹52,900",
+    "off": "38% Off",
+    "image": "https://m.media-amazon.com/images/I/81+JXgPUDLL._SX450_.jpg"
+  },
+  {
+    "id": 65,
+    "title": "Rose Gold Austrian Crystal Bracelet ",
+    "price": "₹268 ",
+    "cat":"Accessories",
+    "op": "₹599",
+    "image": "https://m.media-amazon.com/images/I/51JBNLtPvQS._UY575_.jpg"
+  },
+  {
+    "id": 66,
+    "title": "FSaffola Rolled Oats",
+    "cat": "Grocery",
+    "price": "₹216",
+    "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/cereal-flake/o/d/a/-original-imagpfdktqva6gem.jpeg?q=70"
+  },
+  {
+    "id": 67,
+    "title": "VINCENT CHASE EYEWEAR Unisex Adult UV Protected Sunglasses",
+    "cat": "Eyewears",
+    "price": "₹619",
+    "op": "2,499",
+    "off": "81% Off",
+    "image": "https://m.media-amazon.com/images/I/41EfF577LQL._UX679_.jpg"
+  },
+  {
+    "id": 68,
+    "title": "Liberty Kids Polo Casual Sandals",
+    "cat": "Footwear",
+    "price": "₹499 ",
+    "image": "https://m.media-amazon.com/images/I/81pJFVYX+SL._UX625_.jpg"
+  },
+  {
+    "id": 69,
+    "title": "Laying Style™ Best Harmonium 9 Stopper, Chudidaar Bellow, 42 Key, Two Reed",
+    "cat": "Musical Instruments",
+    "price": "₹8,299",
+    "op": "₹10,500",
+    "off": "42% Off",
+    "image": "https://m.media-amazon.com/images/I/813BzXE6swL._SX450_.jpg"
+  },
+  {
+    "id": 70,
+    "title": "Kabello Tennis Racket Set with Ball ",
+    "cat": "Sports",
+    "price": "₹343",
+    "image": "https://m.media-amazon.com/images/I/61HZetyinKS._SX466_.jpg"
+  },
+  {
+    "id": 71,
+    "title": "Toyshine Fun Interactive Play Basketball Game Playset ",
+    "cat": "Sports",
+    "price": "₹1,113",
+    "image": "https://m.media-amazon.com/images/I/81MP4SYH06L._SX466_.jpg"
+  },
+  {
+    "id": 72,
+    "title": "OnePlus 126 cm (50 inches) Y Series 4K Ultra HD Smart Android LED",
+    "cat": "Televisions",
+    "price": "₹31,999",
+    "op": "₹52,900",
+    "off": "38% Off",
+    "image": "https://m.media-amazon.com/images/I/81I5oICiIzL._SY450_.jpg"
+  },
+  {
+    "id": 73,
+    "title": "Toyzone Doll House (24 Pcs) | Play Set for Girls | Disney Doll House ",
+    "cat": "Toys",
+    "price": "₹549",
+    "image": "https://m.media-amazon.com/images/I/81wnwdAMeOL._SX450_.jpg"
+  },
+
+  {
+    "id": 74,
+    "title": "Noise Buds VS104 Truly Wireless Earbuds",
+
+    "cat": "Wireless Earphones",
+    "price": "₹1,090",
+    "image": "https://m.media-amazon.com/images/I/51+e7yrgPpL._SY450_.jpg"
+  },
+  {
+    "id": 75,
+    "title": "Shocknshop Digital Sports Multi Functional Black Dial Watch ",
+    "cat": "Watches",
+    "price": "₹284",
+    "image": "https://m.media-amazon.com/images/I/61fyBGuO18L._UX679_.jpg"
+  },
+  {
+    "id": 76,
+    "title": "boAt Rockerz 558 Bluetooth Wireless Over Ear Headphones",
+    "cat": "Wireless Headphones",
+    "price": "₹1,999",
+
+    "image": "https://m.media-amazon.com/images/I/61L4SkS7w2L._SY450_.jpg"
+  },
+
+  {
+    "id": 77,
+    "title": "Boult Audio Z40 True Wireless in Ear Earbuds with 60H Playtime",
+
+    "cat": "Wireless Earphones",
+    "price": "₹1,199",
+    "image": "https://m.media-amazon.com/images/I/61LlQRdDZ2L._SY450_.jpg"
+  },
+  {
+    "id": 78,
+    "title": "Leriya Fashion Western Dress || Rayon Solid Button Front Shirt Dress for Women ",
+    "cat": "Women Fashion",
+    "price": "₹579",
+    "image": "https://m.media-amazon.com/images/I/51fJfuRXiVL._UY741_.jpg"
+  },
+  {
+    "id": 79,
+    "title": "Faber 3L 1300W Air Fryer, fry, bake, roast, toast, defrost, grill & reheat",
+    "price": "₹4,499 ",
+
+    "cat": "Kitchen Appliances",
+    "image": "https://m.media-amazon.com/images/I/510JECSAGqL._SX466_.jpg"
+  }
+]

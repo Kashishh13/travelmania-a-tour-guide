@@ -1,0 +1,55 @@
+.head{
+    display: flex;
+position: fixed;
+top: 0;
+    background-color: black;
+    width: 100%;
+}
+.logo img{
+    height: 50px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left:50px ; 
+    cursor: pointer;
+    padding-bottom: 10px;
+
+}
+.im{
+    height: 70px;
+    width: 150px;
+}
+.txt{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 22px;
+    margin-left: 200px;
+    color:   rgb(243, 206, 243);
+}
+.txt span{
+     color:black;
+   background-color:rgb(243, 206, 243);
+    padding: 5px;
+    text-decoration:overline;
+    cursor: pointer;
+
+}
+.head button{
+    outline: none;
+    border: none;
+    cursor: pointer;
+    height: 40px;
+    width: 120px;
+    margin-left: 55px;
+    margin-top:17px;
+    font-weight: 900;
+    background-color: rgb(243, 206, 243);
+    border-radius: 20px;
+    &:hover{
+        background-color: white;
+    }
+   
+}
+.link{
+    text-decoration: none;
+    color: black;
+}

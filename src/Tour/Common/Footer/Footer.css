@@ -1,0 +1,60 @@
+.foot{
+    background-color: black;
+    padding-bottom: 20px;
+}
+.ufoot p{
+    color: white;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+.ufoot{
+    display: flex;
+}
+.ufoot img{
+    height: 50px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.ufoot h1{
+    color: white;
+   font-size: 30px;
+}
+.ufoot h6{
+    padding-left: 550px;
+    color: white;
+    font-size: 14px;
+}
+.ufoot button{
+    cursor: pointer;
+    background-color: violet;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 40px;
+    border-radius: 20px;
+    font-weight: bolder;
+    &:hover{
+        background-color: white;
+    }
+}
+.lfoot{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    padding-left: 60px;
+}
+.lfoot li{
+    cursor: pointer;
+    list-style: none;
+    padding-top: 5px;
+    &:hover{
+        text-decoration: underline;
+        color: violet;
+    }
+}
+.lfoot ul{
+    padding-right: 80px;
+  
+}
